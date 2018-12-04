@@ -9,12 +9,13 @@ various other widgets.
 
 2. We have also used math module which is a standard module in Python and is always available. We have used various functions of this module like eval (for evaluating a mathematical expression), sqrt (for calculating square root), factorial etc.
 
-# Technology Used: Python
+## Technology Used: 
+    Python
 
-# Project Contents:
-You will find the following files:-
- Calculator.py
+## Project Contents:
+    You will find the following files:-
+     Calculator.py
 
 # Required Libraries and Dependencies:
-Python 2.x is required to run this project. The Python executable should be in your default
-path, which the Python installer should have set.
+    Python 2.x is required to run this project. The Python executable should be in your default
+    path, which the Python installer should have set.

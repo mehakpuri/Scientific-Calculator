@@ -17,6 +17,6 @@ various other widgets.
    You will find the following files:-
     Calculator.py
 
-# Required Libraries and Dependencies:
+## Required Libraries and Dependencies:
    Python 2.x is required to run this project. The Python executable should be in your default
    path, which the Python installer should have set.

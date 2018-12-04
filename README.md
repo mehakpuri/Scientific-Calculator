@@ -1,4 +1,5 @@
 # Scientific-Calculator
+## By Mehak Puri
 
 - A Scientific Calculator is designed to calculate the problems in math, science and engineering. They generally have many more features    than a standard four or five function calculator like calculating sine, cosine etc or finding factorial or square root of a number etc. They are widely used in situations that require quick access to certain mathematical functions.
 
@@ -10,12 +11,12 @@ various other widgets.
 2. We have also used math module which is a standard module in Python and is always available. We have used various functions of this module like eval (for evaluating a mathematical expression), sqrt (for calculating square root), factorial etc.
 
 ## Technology Used: 
-    Python
+   Python
 
 ## Project Contents:
-    You will find the following files:-
-     Calculator.py
+   You will find the following files:-
+    Calculator.py
 
 # Required Libraries and Dependencies:
-    Python 2.x is required to run this project. The Python executable should be in your default
-    path, which the Python installer should have set.
+   Python 2.x is required to run this project. The Python executable should be in your default
+   path, which the Python installer should have set.
